@@ -1,0 +1,121 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2020-04-19 06:54+0300\n"
+"Last-Translator: Anton Kikin <a.kikin@tano-systems.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ru\n"
+"X-Generator: Poedit 2.2\n"
+
+#: htdocs/luci-static/resources/netports.js:223
+#: htdocs/luci-static/resources/netports.js:236
+msgid "%1024.2mB"
+msgstr ""
+
+#: htdocs/luci-static/resources/netports.js:249
+msgid "Bridge member"
+msgstr "В составе моста"
+
+#: htdocs/luci-static/resources/netports.js:364
+msgid "Collecting data..."
+msgstr "数据收集中..."
+
+#: htdocs/luci-static/resources/netports.js:121
+msgctxt "Link status"
+msgid "Connected"
+msgstr "连接"
+
+#: htdocs/luci-static/resources/netports.js:137
+msgctxt "Link status"
+msgid "Disabled"
+msgstr "禁用"
+
+#: htdocs/luci-static/resources/netports.js:130
+msgctxt "Link status"
+msgid "Disconnected"
+msgstr "断开"
+
+#: htdocs/luci-static/resources/netports.js:250
+msgid "Firewall zones"
+msgstr "防火墙区域"
+
+#: root/usr/share/rpcd/acl.d/netports.json:3
+msgid "Grant access to network ports status information"
+msgstr "授予获取端口状态权限"
+
+#: htdocs/luci-static/resources/netports.js:248
+msgid "Interface"
+msgstr "接口"
+
+#: htdocs/luci-static/resources/netports.js:247
+msgid "Link status"
+msgstr "链接状态"
+
+#: htdocs/luci-static/resources/netports.js:253
+msgid "MAC-address"
+msgstr "MAC地址"
+
+#: htdocs/luci-static/resources/netports.js:119
+msgid "Mbit/s"
+msgstr "Mbit/s"
+
+#: htdocs/luci-static/resources/netports.js:246
+msgid "Name and MAC-address"
+msgstr "主机名及MAC地址"
+
+#: htdocs/luci-static/resources/view/status/include/25_netports.js:48
+msgid "Network Interfaces Ports Status"
+msgstr "网络接口状态"
+
+#: htdocs/luci-static/resources/netports.js:586
+msgid "No data to display"
+msgstr "无数据"
+
+#: htdocs/luci-static/resources/netports.js:251
+msgid "RX"
+msgstr "接收 (RX)"
+
+#: htdocs/luci-static/resources/netports.js:252
+msgid "TX"
+msgstr "发送 (TX)"
+
+#: htdocs/luci-static/resources/netports.js:307
+msgid "Toggle additional information"
+msgstr "点击显示额外信息"
+
+#: htdocs/luci-static/resources/netports.js:320
+#: htdocs/luci-static/resources/netports.js:419
+msgid "Toggle view mode"
+msgstr "点击切换显示模式"
+
+#: htdocs/luci-static/resources/netports.js:410
+msgid "Too many ports for horizontal display mode"
+msgstr "端口太多，水平视图无法显示"
+
+#: htdocs/luci-static/resources/netports.js:124
+msgid "full-duplex"
+msgstr "全双工"
+
+#: htdocs/luci-static/resources/netports.js:126
+msgid "half-duplex"
+msgstr "半双工"
+
+#: htdocs/luci-static/resources/netports.js:211
+msgid "none"
+msgstr "无"
+
+#: htdocs/luci-static/resources/netports.js:225
+#: htdocs/luci-static/resources/netports.js:238
+msgid "pkts."
+msgstr "包/秒"
+
+#: htdocs/luci-static/resources/netports.js:174
+msgid "port&#160;%d"
+msgstr "端口&#160;%d"
+
+#~ msgid "%.2mB"
+#~ msgstr "%.2mB"
